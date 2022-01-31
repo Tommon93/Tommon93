@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tommon93
+- 👋 Hi, I'm Thomas 
 - 👀 I’m interested in Data Analytics and Data Science
 - 🌱 I’m currently learning Statistics and Operational Research
 - 💞️ I’m looking to collaborate on Data related projects
